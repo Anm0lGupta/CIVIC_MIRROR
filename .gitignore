@@ -1,0 +1,12 @@
+# Frontend
+CIVIC/node_modules/
+CIVIC/dist/
+CIVIC/.env
+
+# Backend
+CIVIC_BACKEND/node_modules/
+CIVIC_BACKEND/.env
+
+# General
+node_modules/
+.env
